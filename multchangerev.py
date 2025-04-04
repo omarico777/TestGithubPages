@@ -1,3 +1,3 @@
 print("wvwvwvwvwvwvwv")
 print("wvwvwvwvwvwvwv")
-print("")
+print("doublewv")
