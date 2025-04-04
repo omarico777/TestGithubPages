@@ -1,3 +1,2 @@
-print("wvwvwvwvwvwvwv")
-print("wvwvwvwvwvwvwv")
-print("doublewv")
+pront("wfwwf")
+print("wfwwf")
